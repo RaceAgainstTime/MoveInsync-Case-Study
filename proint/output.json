@@ -1,0 +1,195 @@
+[
+  {
+    "name": "Divyansh",
+    "email": "harshdubey1122@gmail.com",
+    "country": "",
+    "gender": "male",
+    "phoneNumber": "32345456576",
+    "notificationPreferences": [
+      "email"
+    ],
+    "team": "xyz",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "ddivyanshchhabra563@gmail.com",
+    "country": "USA",
+    "gender": "male",
+    "phoneNumber": "76381762e8",
+    "notificationPreferences": [
+      "sms",
+      "email"
+    ],
+    "team": "acs",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "ddivyanshchhabra563@gmail.com",
+    "country": "",
+    "gender": "",
+    "phoneNumber": "",
+    "notificationPreferences": [],
+    "team": "",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh",
+    "email": "12108384@xyz",
+    "country": "",
+    "gender": "",
+    "phoneNumber": "",
+    "notificationPreferences": [],
+    "team": "",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "ddivyanshchhabra563@gmail.com",
+    "country": "",
+    "gender": "male",
+    "phoneNumber": "",
+    "notificationPreferences": [
+      "email"
+    ],
+    "team": "xyz",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "ddivyanshchhabra563@gmail.com",
+    "country": "",
+    "gender": "female",
+    "phoneNumber": "",
+    "notificationPreferences": [
+      "email"
+    ],
+    "team": "xyz",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "ddivyanshchhabra563@gmail.com",
+    "country": "",
+    "gender": "male",
+    "phoneNumber": "9306246",
+    "notificationPreferences": [],
+    "team": "xyz",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "ddivyanshchhabra563@gmail.com",
+    "country": "",
+    "gender": "male",
+    "phoneNumber": "9306246070",
+    "notificationPreferences": [],
+    "team": "xyz",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh",
+    "email": "harshdubey1122@gmail.com",
+    "country": "mercedes",
+    "gender": "male",
+    "phoneNumber": "9306246070",
+    "notificationPreferences": [
+      "email"
+    ],
+    "team": "xyz",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "divyansh.12108384@lpu.in",
+    "country": "UK",
+    "gender": "female",
+    "phoneNumber": "9306246070",
+    "notificationPreferences": [
+      "email"
+    ],
+    "team": "acs",
+    "driversLicense": {},
+    "driversLicenseExpiry": "2024-02-08",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "divyansh.12108384@lpu.in",
+    "country": "UK",
+    "gender": "female",
+    "phoneNumber": "9306246070",
+    "notificationPreferences": [],
+    "team": "acd",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "divyansh.12108384@lpu.in",
+    "country": "Canada",
+    "gender": "male",
+    "phoneNumber": "930624607",
+    "notificationPreferences": [],
+    "team": "",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "divyansh.12108384@lpu.in",
+    "country": "Canada",
+    "gender": "female",
+    "phoneNumber": "123456789",
+    "notificationPreferences": [],
+    "team": "xyz",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "divyansh.12108384@lpu.in",
+    "country": "Canada",
+    "gender": "female",
+    "phoneNumber": "123456789",
+    "notificationPreferences": [],
+    "team": "xyz",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  },
+  {
+    "name": "Divyansh Chhabra",
+    "email": "divyansh.12108384@lpu.in",
+    "country": "",
+    "gender": "male",
+    "phoneNumber": "9306246070",
+    "notificationPreferences": [],
+    "team": "",
+    "driversLicense": null,
+    "driversLicenseExpiry": "",
+    "backgroundVerification": null
+  }
+]
